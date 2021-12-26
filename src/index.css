@@ -4,7 +4,7 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background-color: #1d1e20;
   color: #fff;
   overflow-x: hidden;
 }
@@ -55,6 +55,10 @@ h1 {
   align-content: center;
   display: flex;
   text-align: center;
+}
+
+.bruh {
+  color: #dbff00;
 }
 
 .member-page > div {
